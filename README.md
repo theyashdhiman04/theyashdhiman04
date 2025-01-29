@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Dhiman</h1>
-<img align="right" alt="Coding" src="https://s1.ezgif.com/tmp/ezgif-1e3688207a20a.gif" style="width:400px; height:400px; object-fit:cover; border:5px solid transparent;">
+<img align="right" alt="Coding" src="ezgif-1e3688207a20a.gif" style="width:400px; height:400px; object-fit:cover; border:5px solid transparent;">
+
 
 
 
