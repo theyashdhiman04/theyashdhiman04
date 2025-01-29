@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **linkedin.com/in/theyashdhiman04/**
 
-- ⚡ Fun fact **I told my computer I needed a break, and now it won’t stop sending me ads for Kit-Kats.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
