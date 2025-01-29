@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Dhiman</h1>
-<img align="right" alt="Coding" width-"400" src="https://i.pinimg.com/originals/55/17/8c/55178cd5d1194ae00347c99aaaa5da9b.gif">
+<img align="right" alt="Coding" src="https://s1.ezgif.com/tmp/ezgif-1e3688207a20a.gif" style="width:400px; height:400px; object-fit:cover; border:5px solid transparent;">
+
 
 
 <h3 align="center">I'm a passionate Developer & Designer with a love for creating seamless and interactive digital experiences. I thrive on building innovative solutions that blend design with functionality.</h3>
