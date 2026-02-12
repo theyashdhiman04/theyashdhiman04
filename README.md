@@ -29,6 +29,11 @@
 
 <div align="center">
 
+<p style="font-family: 'Fira Code', monospace; font-size: 24px; color: #58A6FF; margin-bottom: 16px;">
+  $ whoami<br/>
+  <strong>Yash Dhiman | Developer | Designer | Creator</strong>
+</p>
+
 <img src="https://komarev.com/ghpvc/?username=theyashdhiman04&style=for-the-badge&color=0e75b6&label=PROFILE+VISITORS" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/theyashdhiman04?tab=followers">
@@ -119,14 +124,14 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=theyashdhiman04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=theyashdhiman04&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=theyashdhiman04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=theyashdhiman04&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theyashdhiman04&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theyashdhiman04&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
