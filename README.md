@@ -1,7 +1,7 @@
 ```
  ____________________________________________________________________________________________
 |                                                                                            |
-|  yash@github:~$                                                                     _ o x  |
+|  theyashdhiman04@github:~$                                                           _ o x  |
 |____________________________________________________________________________________________|
 |                                                                                            |
 |  > neofetch                                                                                |
@@ -23,15 +23,11 @@
 |  > echo $STATUS                                                                            |
 |  "Open to collaborate on exciting projects"                                                |
 |                                                                                            |
-|  yash@github:~$ █                                                                          |
+|  theyashdhiman04@github:~$ █                                                              |
 |____________________________________________________________________________________________|
 ```
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%24+whoami;Yash+Dhiman+%7C+Developer+%7C+Designer+%7C+Creator" alt="Typing SVG" />
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=theyashdhiman04&style=for-the-badge&color=0e75b6&label=PROFILE+VISITORS" alt="Profile Views" />
 &nbsp;
