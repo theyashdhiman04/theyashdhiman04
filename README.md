@@ -1,29 +1,29 @@
 ```
  _____________________________________________________________________________________________________________
 |                                                                                                             |
-|  theyashdhiman04@github:~$                                                                        _ o x    |
+|  theyashdhiman04@github:~$                                                                         _ o x    |
 |_____________________________________________________________________________________________________________|
 |                                                                                                             |
 |  > neofetch                                                                                                 |
 |                                                                                                             |
-|   ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ██████╗ ██╗  ██╗██╗███╗   ███╗ █████╗ ███╗   ██╗                    |
-|   ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ██╔══██╗██║  ██║██║████╗ ████║██╔══██╗████╗  ██║                    |
-|    ╚████╔╝ ███████║███████╗███████║    ██║  ██║███████║██║██╔████╔██║███████║██╔██╗ ██║                    |
-|     ╚██╔╝  ██╔══██║╚════██║██╔══██║    ██║  ██║██╔══██║██║██║╚██╔╝██║██╔══██║██║╚██╗██║                    |
-|      ██║   ██║  ██║███████║██║  ██║    ██████╔╝██║  ██║██║██║ ╚═╝ ██║██║  ██║██║ ╚████║                    |
-|      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝                    |
+|   ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ██████╗ ██╗  ██╗██╗███╗   ███╗ █████╗ ███╗   ██╗                     |
+|   ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ██╔══██╗██║  ██║██║████╗ ████║██╔══██╗████╗  ██║                     |
+|    ╚████╔╝ ███████║███████╗███████║    ██║  ██║███████║██║██╔████╔██║███████║██╔██╗ ██║                     |
+|     ╚██╔╝  ██╔══██║╚════██║██╔══██║    ██║  ██║██╔══██║██║██║╚██╔╝██║██╔══██║██║╚██╗██║                     |
+|      ██║   ██║  ██║███████║██║  ██║    ██████╔╝██║  ██║██║██║ ╚═╝ ██║██║  ██║██║ ╚████║                     |
+|      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝                       |
 |                                                                                                             |
-|   OS      : Developer & Designer                                                                           |
+|   OS      : Developer & Designer                                                                            |
 |   Host    : Full Stack Engineer                                                                             |
-|   Kernel  : MERN • React Native • Cloud                                                                    |
-|   Uptime  : Since the first "Hello World"                                                                  |
-|   Shell   : Creative Problem Solver                                                                        |
-|   DE      : Building the future, one commit at a time                                                      |
+|   Kernel  : MERN • React Native • Cloud                                                                     |
+|   Uptime  : Since the first "Hello World"                                                                   |
+|   Shell   : Creative Problem Solver                                                                         |
+|   DE      : Building the future, one commit at a time                                                       |
 |                                                                                                             |
 |  > echo $STATUS                                                                                             |
 |  "Open to collaborate on exciting projects"                                                                 |
 |                                                                                                             |
-|  theyashdhiman04@github:~$ █                                                                               |
+|  theyashdhiman04@github:~$ █                                                                                |
 |_____________________________________________________________________________________________________________|
 ```
 
@@ -146,16 +146,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=theyashdhiman04&bg_color=ffffff&color=0969da&line=0969da&point=0969da&area_color=ddf4ff&area=true&hide_border=true&custom_title=Contribution%20Graph" />
   <img width="98%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=theyashdhiman04&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=1a1b27&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 </picture>
-
-</div>
-
----
-
-## `> cat ./trophies.yml`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=theyashdhiman04&theme=github_dark&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
