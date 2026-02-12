@@ -1,30 +1,30 @@
 ```
- ____________________________________________________________________________________________
-|                                                                                            |
-|  theyashdhiman04@github:~$                                                           _ o x  |
-|____________________________________________________________________________________________|
-|                                                                                            |
-|  > neofetch                                                                                |
-|                                                                                            |
-|         ██╗   ██╗ █████╗ ███████╗██╗  ██╗                                                  |
-|         ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║                                                  |
-|          ╚████╔╝ ███████║███████╗███████║                                                  |
-|           ╚██╔╝  ██╔══██║╚════██║██╔══██║                                                  |
-|            ██║   ██║  ██║███████║██║  ██║                                                  |
-|            ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                                                  |
-|                                                                                            |
-|   OS      : Developer & Designer                                                          |
-|   Host    : Full Stack Engineer                                                            |
-|   Kernel  : MERN • React Native • Cloud                                                   |
-|   Uptime  : Since the first "Hello World"                                                 |
-|   Shell   : Creative Problem Solver                                                       |
-|   DE      : Building the future, one commit at a time                                     |
-|                                                                                            |
-|  > echo $STATUS                                                                            |
-|  "Open to collaborate on exciting projects"                                                |
-|                                                                                            |
-|  theyashdhiman04@github:~$ █                                                              |
-|____________________________________________________________________________________________|
+ _____________________________________________________________________________________________________________
+|                                                                                                             |
+|  theyashdhiman04@github:~$                                                                        _ o x    |
+|_____________________________________________________________________________________________________________|
+|                                                                                                             |
+|  > neofetch                                                                                                 |
+|                                                                                                             |
+|   ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ██████╗ ██╗  ██╗██╗███╗   ███╗ █████╗ ███╗   ██╗                    |
+|   ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ██╔══██╗██║  ██║██║████╗ ████║██╔══██╗████╗  ██║                    |
+|    ╚████╔╝ ███████║███████╗███████║    ██║  ██║███████║██║██╔████╔██║███████║██╔██╗ ██║                    |
+|     ╚██╔╝  ██╔══██║╚════██║██╔══██║    ██║  ██║██╔══██║██║██║╚██╔╝██║██╔══██║██║╚██╗██║                    |
+|      ██║   ██║  ██║███████║██║  ██║    ██████╔╝██║  ██║██║██║ ╚═╝ ██║██║  ██║██║ ╚████║                    |
+|      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝                    |
+|                                                                                                             |
+|   OS      : Developer & Designer                                                                           |
+|   Host    : Full Stack Engineer                                                                             |
+|   Kernel  : MERN • React Native • Cloud                                                                    |
+|   Uptime  : Since the first "Hello World"                                                                  |
+|   Shell   : Creative Problem Solver                                                                        |
+|   DE      : Building the future, one commit at a time                                                      |
+|                                                                                                             |
+|  > echo $STATUS                                                                                             |
+|  "Open to collaborate on exciting projects"                                                                 |
+|                                                                                                             |
+|  theyashdhiman04@github:~$ █                                                                               |
+|_____________________________________________________________________________________________________________|
 ```
 
 <div align="center">
@@ -155,7 +155,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=theyashdhiman04&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=theyashdhiman04&theme=github_dark&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
