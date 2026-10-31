@@ -155,7 +155,11 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/itsyashdhiman04/" target="_blank">
+<a href="https://yashdhiman.tech" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Yash Dhiman portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/itsyashdhiman/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
